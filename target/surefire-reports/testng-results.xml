@@ -2,52 +2,52 @@
 <testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-30T19:02:14 IST" name="Suite" finished-at="2021-09-30T19:03:31 IST" duration-ms="77311">
+  <suite started-at="2021-10-02T11:00:44 IST" name="Suite" finished-at="2021-10-02T11:01:47 IST" duration-ms="63019">
     <groups>
     </groups>
-    <test started-at="2021-09-30T19:02:14 IST" name="Test" finished-at="2021-09-30T19:03:31 IST" duration-ms="77311">
+    <test started-at="2021-10-02T11:00:44 IST" name="Test" finished-at="2021-10-02T11:01:47 IST" duration-ms="63019">
       <class name="com.selenium.testbuild.testCases">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-09-30T19:02:03 IST" name="setup" finished-at="2021-09-30T19:02:14 IST" duration-ms="10768" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-10-02T11:00:38 IST" name="setup" finished-at="2021-10-02T11:00:44 IST" duration-ms="5609" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="popup()[pri:0, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-09-30T19:02:14 IST" name="popup" finished-at="2021-09-30T19:02:25 IST" duration-ms="10416" status="PASS">
+        <test-method signature="popup()[pri:0, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-10-02T11:00:44 IST" name="popup" finished-at="2021-10-02T11:00:54 IST" duration-ms="9750" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- popup -->
-        <test-method signature="bookshelves()[pri:1, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-09-30T19:02:25 IST" name="bookshelves" finished-at="2021-09-30T19:02:28 IST" duration-ms="3779" status="PASS">
+        <test-method signature="bookshelves()[pri:1, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-10-02T11:00:54 IST" name="bookshelves" finished-at="2021-10-02T11:00:56 IST" duration-ms="1957" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bookshelves -->
-        <test-method signature="storage()[pri:2, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-09-30T19:02:28 IST" name="storage" finished-at="2021-09-30T19:02:30 IST" duration-ms="1373" status="PASS">
+        <test-method signature="storage()[pri:2, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-10-02T11:00:56 IST" name="storage" finished-at="2021-10-02T11:00:57 IST" duration-ms="859" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- storage -->
-        <test-method signature="slider()[pri:3, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-09-30T19:02:30 IST" name="slider" finished-at="2021-09-30T19:02:39 IST" duration-ms="8930" status="PASS">
+        <test-method signature="slider()[pri:3, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-10-02T11:00:57 IST" name="slider" finished-at="2021-10-02T11:01:04 IST" duration-ms="7555" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- slider -->
-        <test-method signature="checkbox()[pri:4, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-09-30T19:02:39 IST" name="checkbox" finished-at="2021-09-30T19:02:42 IST" duration-ms="3401" status="PASS">
+        <test-method signature="checkbox()[pri:4, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-10-02T11:01:04 IST" name="checkbox" finished-at="2021-10-02T11:01:07 IST" duration-ms="2520" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkbox -->
-        <test-method signature="printItems()[pri:5, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-09-30T19:02:42 IST" name="printItems" finished-at="2021-09-30T19:02:45 IST" duration-ms="2836" status="PASS">
+        <test-method signature="printItems()[pri:5, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-10-02T11:01:07 IST" name="printItems" finished-at="2021-10-02T11:01:08 IST" duration-ms="983" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printItems -->
-        <test-method signature="collections()[pri:6, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-09-30T19:02:45 IST" name="collections" finished-at="2021-09-30T19:02:47 IST" duration-ms="1962" status="PASS">
+        <test-method signature="collections()[pri:6, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-10-02T11:01:08 IST" name="collections" finished-at="2021-10-02T11:01:09 IST" duration-ms="1177" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- collections -->
-        <test-method signature="printSubmenu()[pri:7, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-09-30T19:02:47 IST" name="printSubmenu" finished-at="2021-09-30T19:02:48 IST" duration-ms="628" status="PASS">
+        <test-method signature="printSubmenu()[pri:7, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-10-02T11:01:09 IST" name="printSubmenu" finished-at="2021-10-02T11:01:09 IST" duration-ms="278" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printSubmenu -->
-        <test-method signature="giftCard()[pri:8, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-09-30T19:02:48 IST" name="giftCard" finished-at="2021-09-30T19:03:31 IST" duration-ms="43877" status="PASS">
+        <test-method signature="giftCard()[pri:8, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-10-02T11:01:09 IST" name="giftCard" finished-at="2021-10-02T11:01:47 IST" duration-ms="37877" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- giftCard -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-09-30T19:03:32 IST" name="closeBrowser" finished-at="2021-09-30T19:03:33 IST" duration-ms="1412" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.selenium.testbuild.testCases@15d49048]" started-at="2021-10-02T11:01:47 IST" name="closeBrowser" finished-at="2021-10-02T11:01:48 IST" duration-ms="767" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
